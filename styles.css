@@ -2,10 +2,7 @@
     box-sizing: border-box;
 }
 
-.underConstruction {
+img {
     width: 100dvw;
     height: 100dvh;
-    background-image: url(./assets/Coming_soon_image_01.svg);
-    background-repeat: no-repeat;
-    background-position: center;
 }
