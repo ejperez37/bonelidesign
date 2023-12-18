@@ -3,13 +3,9 @@
 }
 
 .underConstruction {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     width: 100dvw;
     height: 100dvh;
-}
-
-.underConstruction > img {
-    max-width: 100%
+    background-image: url(./assets/Coming_soon_image_01.svg);
+    background-repeat: no-repeat;
+    background-position: center;
 }

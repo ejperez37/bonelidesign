@@ -1,1 +1,1 @@
-personal website for designer boneli lotilla
+personal website for illustrator, designer, and art director boneli lotilla
