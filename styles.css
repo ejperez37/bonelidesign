@@ -1,0 +1,11 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.underConstruction {
+    width: auto;
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
